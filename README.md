@@ -1,8 +1,4 @@
-<h1 align="left">Daniel Rodriguez</h1>
-
-###
-
-<p align="left">Hello there!</p>
+<h1 align="left">Hello there!</h1>
 
 ###
 
