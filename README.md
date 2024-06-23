@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Software Developer specializing in web development. Experienced in agile methodologies and focused on innovative solutions, I enjoy tackling projects that challenge me to learn new technologies. My teamwork and agile skills ensure efficient, high-quality results.<br>My goal is to continue growing as a professional, contributing my knowledge and skills to the success of current and future projects.</p>
+<p align="left">Hello there!</p>
 
 ###
 
